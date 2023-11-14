@@ -2,7 +2,7 @@
 
 I'm a passionate tech enthusiast from Ghana, currently pursuing a BSc in Computer Science from the prestigious Kwame Nkrumah Unniversity of Science and Technology, Kumasi. My goal is to become a data scientist and contribute to the exciting world of data analytics and machine learning.
 
-🌱 I’m currently expanding my knowledge in data science and machine learning through online courses and hands-on projects. I've already taken a course on Python and data analysis, and I'm deep into my machine learning journey.
+🌱 I’m currently expanding my knowledge in data science and machine learning through online courses and hands-on projects, currently proficient in Regression, Classification and Feature engineering techniques
 
 🎵 Outside of tech, you can find me enjoying a mix of pop and Afropop, and I'm also a gamer at heart.
 

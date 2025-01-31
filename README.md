@@ -1,4 +1,4 @@
-# _Hi there, I'm DAVID_
+# Hi there, I'm David
 
 ## **DATA SCIENTIST | MACHINE LEARNING ENGINEER | TECH ENTHUSIAST**🚀  
 I'm passionate about leveraging data to solve real-world problems, building intelligent systems, and driving impactful insights. Currently pursuing a **BSc in Computer Science** at **Kwame Nkrumah University of Science and Technology (KNUST)**, with hands-on experience in **Software Development, Supervised & Unsupervised Learning, Time-Series Analysis, NLP, and Computer Vision Modeling**.  

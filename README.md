@@ -45,16 +45,29 @@ Currently pursuing BSc in Computer Science at Kwame Nkrumah University of Scienc
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zahemen9900&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahemen9900&theme=tokyo-night)
 
 ## Recent Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zahemen9900&repo=YourMainRepo&theme=tokyonight)](https://github.com/zahemen9900/FinsightAI.git)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zahemen9900&repo=YourMainRepo&theme=tokyonight)](https://github.com/zahemen9900/medi-link.git)
+## Recent Projects
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/zahemen9900/FinsightAI.git">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahemen9900&repo=FinsightAI&theme=tokyonight" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/zahemen9900/medi-link.git">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahemen9900&repo=medi-link&theme=tokyonight" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 ## Professional Connect
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-yeboah-498245246/)
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ZAHEMEN9900@GMAIL.COM)
 
 ---
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="800" />
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)****
+

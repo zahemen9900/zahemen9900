@@ -45,9 +45,10 @@ Currently pursuing BSc in Computer Science at Kwame Nkrumah University of Scienc
   </tr>
 </table>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahemen9900&layout=compact&theme=tokyonight" />
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahemen9900&theme=tokyo-night)
 
-## Recent Projects
 ## Recent Projects
 <table>
     <tr>
@@ -70,4 +71,3 @@ Currently pursuing BSc in Computer Science at Kwame Nkrumah University of Scienc
 
 ---
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)****
-

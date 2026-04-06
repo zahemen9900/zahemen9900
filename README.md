@@ -4,9 +4,6 @@
 
 ### AI Engineer · ML Systems · Language & Perception
 
-*Building AI that works where it matters — from real-time sign language recognition in Ghana*  
-*to audio source separation that outperforms SOTA.*
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://david-z-yeboah.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-yeboah-498245246/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/zahemen9900)
@@ -134,8 +131,3 @@ Open to:   Research collaborations · Full-time roles
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahemen9900&theme=tokyo-night&hide_border=true)
 
----
-
-<div align="center">
-  <em>Open to research collaborations and full-time opportunities · Based in Kumasi, Ghana</em>
-</div>

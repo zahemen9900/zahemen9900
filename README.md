@@ -12,10 +12,10 @@ I build production AI systems at the intersection of machine learning, backend e
 
 ## Selected Work
 
-### [SignifyAI](https://github.com/zahemen9900/SignifyAI)
+### [SignifyAI](https://www.signify-ai.org)
 Real-time bidirectional Ghanaian Sign Language translation. I work across multimodal modeling, data pipelines, model serving, and the product architecture behind sign-to-text and text-to-sign translation.
 
-### [Agora](https://github.com/zahemen9900/agora)
+### [Agora](https://agora-bay-seven.vercel.app)
 Tool-augmented multi-agent deliberation runtime and Python SDK with debate, voting, and Delphi mechanisms, grounded sources, sandboxed execution, streaming, telemetry, and auditable receipts. **Winner, Agora Colosseum.**
 
 ### [BioQuery](https://github.com/zahemen9900/bioquery)
